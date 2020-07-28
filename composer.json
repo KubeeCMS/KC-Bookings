@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/kc-bookings",
+    "description": "Easily create web forms and manage form entries within the KCMS admin.",
+    "keywords": ["kubee", "kubeecms", "kc-bookings"],
+    "homepage": "https://github.com/kubeecms/kc-bookings/",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
