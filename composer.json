@@ -1,6 +1,6 @@
 {
     "name": "kubeecms/kc-bookings",
-    "description": "Easily create web forms and manage form entries within the KCMS admin.",
+    "description": "Setup appointable products KC Commerce ...",
     "keywords": ["kubee", "kubeecms", "kc-bookings"],
     "homepage": "https://github.com/kubeecms/kc-bookings/",
     "authors": [
